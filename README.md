@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [Link2](https://github.com/Pradnesh8/disease-predictor-api/)
 Technology - ReactJS, Python, Flask, Laravel
 
-####[Garbage Profiling App]()
+#### [Garbage Profiling App]()
 Technology - React Native, Flask, Firebase.
 
 #### [Chat App](https://www.github.com/pradeep99909/chat-app)
@@ -39,5 +39,5 @@ Technology - React Native, Flask, Firebase.
 Technology - React, Redux, MongoDB, ExpressJS, NodeJS, Socket.io
 
 - 📫 How to reach me: 
- **[Linkedin](https://www.linkedin.com/in/pradeep-kshirsagar-946348166/)**  **[Email](pradeep99909@gmail.com)**
+ **[Linkedin](https://www.linkedin.com/in/pradeep-kshirsagar-946348166/)**  **[Email](mailto:pradeep99909@gmail.com)**
 
