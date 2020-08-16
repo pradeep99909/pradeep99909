@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
---->
+
 
 # Hello,
 ### I am Pradeep Kshirsagar
@@ -41,3 +41,5 @@ Technology - React, Redux, MongoDB, ExpressJS, NodeJS, Socket.io
 - 📫 How to reach me: 
  **[Linkedin](https://www.linkedin.com/in/pradeep-kshirsagar-946348166/)**  **[Email](mailto:pradeep99909@gmail.com)**
 
+
+--->
