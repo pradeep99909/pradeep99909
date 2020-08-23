@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### I am Pradeep Kshirsagar
 ![Profile views](https://gpvc.arturio.dev/pradeep99909)
 
-  Developer, Programmer , Software Engineer with the focused knowledge about Javascript, Python, APIs, Database and UX.
+  Developer, Programmer , Software Engineer with the focused knowledge about Javascript, Python, APIs, Database, Cloud and UX.
   Currently looking for a team with whom I can solve real world problem.
   
   **#OpenToWork**
