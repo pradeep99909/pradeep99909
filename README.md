@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 * Frameworks - ReactJS, ExpressJS, Flask
 * Database - SQL, Firebase Database, MongoDB.
 * Mobile Apps - React Native, Expo
-* Others - Data Structures, OOP, Algorithm, ES6, Socket,  Git.
+* Others - Data Structures, OOP, Algorithm, Analytics, Cloud Computing, API, DevOps, Git.
 
 
 How to reach me: 
