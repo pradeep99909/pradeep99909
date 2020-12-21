@@ -22,11 +22,7 @@ Here are some ideas to get you started:
 ![Profile views](https://gpvc.arturio.dev/pradeep99909)
 
   Developer, Programmer , Software Engineer with the focused knowledge about Javascript, Python, APIs, Database, Cloud and UX.
-  Currently looking for a team with whom I can solve real world problem.
   
-  **#OpenToWork**
-  
-  Full Stack Developer . Web Developer . Backend Developer . Junior Software Engineer as Full-time
   
 * Programming Languages - Javascript, NodeJS, Python, PHP, Java, C, HTML5, CSS3
 * Frameworks - ReactJS, ExpressJS, Flask
